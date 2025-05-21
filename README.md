@@ -15,5 +15,3 @@ This project shows how you can send Lua scripts from a C++ server to a C++ clien
 ## 🛠️ Requirements
 - Windows 10+
 - C++17 compiler (MSVC)
-- [Lua](https://github.com/alain-riedinger/lua54)
-- [nlohmann/json](https://github.com/nlohmann/json)
