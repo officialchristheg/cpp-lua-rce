@@ -11,3 +11,6 @@ Great for updating features or scripts on connected clients
 - 📜 Runtime Lua execution using `lua54`
 - 📡 Simple JSON-based protocol (`nlohmann && json`)
 - 🖥️ Console color control via WinAPI (as Lua functions)
+
+## ⚠️ Disclaimer
+> This project is intended for **educational purposes only**. Downloading and executing external files without validation poses a **serious security risk** and should never be used in production or malicious contexts.
